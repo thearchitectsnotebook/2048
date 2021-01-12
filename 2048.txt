@@ -1,0 +1,5 @@
+This program aims to simulate the game of 2048 (play2048.co), except on a text-based console with far less colorful design. 
+
+The aim of 2048 is to merge squares of the same number together until the number 2048 is reached. However, higher numbers are also possible to acheive, and this program will allow you to play on until the board has been completely filled and you are unable to make anymore moves.
+
+HOW TO PLAY: Use your arrow keys to move the blocks, merging those with the same numbers together to form one block. Press the Escape key at any time to quit.
